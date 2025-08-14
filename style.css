@@ -417,8 +417,7 @@ body {
     }
 }
 
-Reset and Base Styles */
- {
+Reset and Base Styles */ {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -436,8 +435,7 @@ body {
     padding: 0 20px;
 }
 
- Pixelgrade Section
-.pixelgrade {
+Pixelgrade Section .pixelgrade {
     padding: 80px 0;
     background: #F5F7FA;
 }
@@ -564,7 +562,7 @@ body {
     align-items: center;
     /* background-image: url(All\ Images/); */
     justify-content: center;
-    
+
 }
 
 .stat-info h3 {
